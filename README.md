@@ -28,6 +28,8 @@ Python으로 구현된 FastAPI 어플리케이션 템플릿입니다.
 
 ```bash
 uvicorn main:app --host=0.0.0.0 --port=8000
+
+python3 -m uvicorn main:app --host=0.0.0.0 --port=8000
 ```
 
 
